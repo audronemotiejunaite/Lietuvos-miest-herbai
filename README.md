@@ -1,2 +1,2 @@
-# Lietuvos-miest-herbai
-Testas: ar pažįsti Lietuvos herbus?
+# Lietuvos-herbai
+Testas: ar pažįsti Lietuvos miestų herbus?
